@@ -1,0 +1,1 @@
+writing an iio(industrial input output) subsystem driver for a sensor device
